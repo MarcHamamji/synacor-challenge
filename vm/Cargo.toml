@@ -1,0 +1,29 @@
+[package]
+name = "synacor-vm"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "vm"
+path = "src/bin/vm/mod.rs"
+
+[[bin]]
+name = "lifter"
+path = "src/bin/lifter/mod.rs"
+
+[[bin]]
+name = "ascii-detector"
+path = "src/bin/ascii-detector/mod.rs"
+
+[[bin]]
+name = "ackerman-solver"
+path = "src/bin/ackerman-solver/mod.rs"
+
+[[bin]]
+name = "maze-solver"
+path = "src/bin/maze-solver/mod.rs"
+
+[dependencies]
+rayon = "1.12.0"
+tracing = "0.1.44"
+tracing-subscriber = "0.3.23"
