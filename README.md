@@ -1,6 +1,6 @@
 # Synacor Challenge
 
-This repo contains my solutions to the [synacor challenge](https://github.com/Aneurysm9/vm_challenge/tree/b235ac8a84b9ad563c6c56933687a1b706a794ea)
+This repo contains my solutions to the [synacor challenge](https://github.com/Aneurysm9/vm_challenge)
 
 # Codes
 
