@@ -1,6 +1,6 @@
 # Synacor Challenge
 
-This repo contains my solutions to the [synacor challenge](https://github.com/Aneurysm9/vm_challenge)
+This repo contains my solutions to the [synacor challenge](https://github.com/Aneurysm9/vm_challenge).
 
 # Codes
 
@@ -14,7 +14,7 @@ This repo contains my solutions to the [synacor challenge](https://github.com/An
 - `qo8HqHOwU8Wi`
 
 # Coins problem
-Order in which they have to be insterted:
+Order in which the coins have to be insterted:
 - blue
 - red
 - shiny
