@@ -14,7 +14,7 @@ This repo contains my solutions to the [synacor challenge](https://github.com/An
 - `qo8HqHOwU8Wi`
 
 # Coins problem
-Order in which the coins have to be insterted:
+Order in which the coins have to be inserted:
 - blue
 - red
 - shiny
@@ -37,7 +37,6 @@ Order in which the coins have to be insterted:
  |   |   |   |
  22— - — 9 — *
  ↑
-
 ```
 
 Optimal path found using the `maze-solver` script: `22 + 4 - 11 * 4 - 18 - 11 - 1`
